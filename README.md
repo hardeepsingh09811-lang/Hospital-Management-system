@@ -40,7 +40,7 @@ Hospital-Management-System/
 Clone the repository:
 
 ```bash
-git clone https://github.com/gauravjoshicodes/Hospital-Management-System.git
+git clone https://github.com/hardeepsingh09811-lang/Hospital-Management-System.git
 ```
 
 Move into the project directory:
